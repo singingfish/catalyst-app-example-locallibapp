@@ -10,7 +10,7 @@ use inc::Module::Install;
 name 'LocalLibApp';
 all_from 'lib/LocalLibApp.pm';
 
-requires 'local::lib' => '1.004002';
+requires 'local::lib' => '1.004004';
 requires 'Catalyst::Runtime' => '5.80005';
 requires 'Catalyst::Plugin::ConfigLoader';
 requires 'Catalyst::Plugin::Static::Simple';
