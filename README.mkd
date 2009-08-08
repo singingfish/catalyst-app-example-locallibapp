@@ -8,7 +8,7 @@
     cd catalyst-app-example-locallibapp
     
     # To bootstrap local::lib, runs your Makefile.PL, runs make installdeps
-    ./script/bootstrap.sh
+    ./script/bootstrap.pl
     # And go!
     ./script/catalyst-server.pl
 
